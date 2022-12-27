@@ -1,0 +1,13 @@
+1. Create a 'Rectangle' class with two data members, length and breadth, and a function to calculate the area that is 'length*breadth'. The class has three constructors, which are as follows:
+a - no parameter - length and breadth values are both set to zero.
+b - using two numbers as parameters, one for length and one for breadth.
+c - Using a single number as a parameter - that number is assigned to both length and breadth.
+Now, create objects of the 'Rectangle' class having none, one, and two parameters and print their areas.
+
+2. Write a program to calculate the salary of Indian Railway employees. Three
+are three types of employees in Indian railways. They are regular, daily wages
+and consolidated employees. Gross Pay for the employees is calculated as
+follows:
+a - regular employees = basic + HRA + ((10% of DA) * basic)
+b - Daily wages = wages per hour * number of hours
+c - Consolidated = a fixed amount
